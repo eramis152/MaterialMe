@@ -12,10 +12,6 @@
         "source": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.android.materialme.app-debug-32:/drawable_ic_reset.xml.flat",
-        "source": "com.example.android.materialme.app-main-34:/drawable/ic_reset.xml"
-    },
-    {
         "merged": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\layout_activity_detail.xml.flat",
         "source": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\layout\\activity_detail.xml"
     },
@@ -44,6 +40,10 @@
         "source": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_golf.jpg"
     },
     {
+        "merged": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_ic_reset.xml.flat",
+        "source": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\ic_reset.xml"
+    },
+    {
         "merged": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_img_swimming.jpg.flat",
         "source": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_swimming.jpg"
     },
@@ -60,12 +60,12 @@
         "source": "com.example.android.materialme.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_img_bowling.jpg.flat",
-        "source": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_bowling.jpg"
-    },
-    {
         "merged": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_img_bowling.jpg.flat",
+        "source": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-34:\\drawable\\img_bowling.jpg"
     },
     {
         "merged": "C:\\Users\\elvik\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-32:\\drawable_default_image.xml.flat",
